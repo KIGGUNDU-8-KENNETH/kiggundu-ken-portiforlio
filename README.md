@@ -1,2 +1,2 @@
-# kiggundu-ken-portiforlio
+# kiggundu-ken-portforlio
 My main portfolio-BYU Pathway
